@@ -2,7 +2,7 @@
 
 ML challenge as part of LiveScore interview.
 
-For this challenge, I was given a fictitious data set of fictitious sports betting customers, and asked to create a model which predicts if the customer will still play with us in the future.
+For this challenge, I was given a fictitious data set of sports betting customers, and asked to create a model which predicts if the customer will still play with us in the future.
 
 To approach this problem, I performed some exploratory data analysis, pre-processed the data, and finally trained and tested various machine learning models.
 
@@ -13,6 +13,6 @@ Some parameters that would have been advantageous but were not included in the d
 - Total spend.
 - Total loss.
 - Overall balance.
-- Ratio of wins:lossed.
+- Ratio of wins:losses.
 - Biggest loss.
 - Betting fields (i.e. are they betting on horse racing, soccer, others, etc.).
